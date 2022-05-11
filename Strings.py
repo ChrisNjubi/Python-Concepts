@@ -97,3 +97,8 @@ id=37145333
 print(f"I work at {work} and I'm {age} year's old and my id is {id}")
 print("I work at {} and I'm {} years old and my ID is {}".format(work,age,id))
 print("I work at %s and I'm %f years old and my id is %d"%(work,age, id))
+
+
+
+SchoolName="University of Eldoret"
+print(SchoolName)
